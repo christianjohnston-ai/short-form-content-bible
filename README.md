@@ -6,7 +6,7 @@ yourself. Where the creators disagree, both sides are shown side by side instead
 
 ## Read it
 
-- **Styled version**, with clickable sources: [`index.html`](index.html). Download it and open it in a browser.
+- **Styled version**, with clickable sources: https://christianjohnston-ai.github.io/short-form-content-bible/
 - **Markdown version**, readable right here on GitHub: [`short-form-content-bible.md`](short-form-content-bible.md).
 
 ## Use it with Claude or ChatGPT
